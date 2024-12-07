@@ -1,0 +1,21 @@
+int main() {
+	/*
+		break:
+		break;
+	*/
+	//while(break;)
+	int a;
+	break;
+	switch(a) {
+	case 1:
+		 fdfbreak;
+	case: (break; )
+		
+	case 3:
+		int b;
+		break;
+	default:
+		break;
+	}
+	break;
+}
